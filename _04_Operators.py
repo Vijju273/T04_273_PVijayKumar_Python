@@ -84,7 +84,7 @@ x % 100 -> yield last two digits
 
 
 '''
-
+'''
 # Examples:
 # Addition Operator
 a = 2
@@ -287,3 +287,4 @@ print(b)
 a=10
 b=a << 7
 print(b)
+'''
